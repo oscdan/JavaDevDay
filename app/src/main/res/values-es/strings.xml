@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JavaDevDay</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="section_agenda">Agenda</string>
+    <string name="section_speaker">Ponentes</string>
+    <string name="section_schedule">Mi Horario</string>
+    <string name="event_detail_by">Por</string>
+    <string name="open_drawer">ABRIR</string>
+    <string name="close_drawer">CERRAR</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_splash_screen">JavaDev Agenda</string>
+    <string name="title_activity_speakers">Ponentes</string>
+    <string name="title_activity_favourites">Mi Horario</string>
+    <string name="schedule_no_content">No has seleccionado las platicas que deseas programar!\n\nPresiona en la estrella de cada evento.</string>
+</resources>
